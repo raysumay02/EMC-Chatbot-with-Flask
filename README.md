@@ -3,10 +3,7 @@ Improved version of emergency chatbot, now with a snappy web interface using Fla
 
 ### This is a domain specific chatbot that responds to queries related to what to do during an emergency.
 
-### This uses a multilayer neural network using Tensorflow to connect input message to 
-  the output of the network that has the highest probability.
-  As neural network work only with numerical datasets, the training data must be preprocessed and 
-  is acheived by the nltk library.
+### This uses a multilayer neural network using Tensorflow to connect input message to the output of the network that has the highest probability. As neural network work only with numerical datasets, the training data must be preprocessed and is acheived by the nltk library.
 
 # Demonstration
 
