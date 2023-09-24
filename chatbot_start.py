@@ -1,3 +1,4 @@
+#Here are all the libraries needed for this project
 import random
 import json
 import pickle
